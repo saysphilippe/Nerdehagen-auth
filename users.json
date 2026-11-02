@@ -213,13 +213,20 @@
     {
       "name": "Chili",
       "color": "#0891b2",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "FgE4q3ZJP2lEoz+hSYpcSA==",
-        "iv": "MwFTLCjn+Eu1eShF",
-        "data": "fdHQY5njhGZ8CMSWMEJeSy0TooS2reit/o+GlHYSoSAvCjucbNOhSwE3EBNkOE4kMn71CfkaPpaZebjXgMT3CP6IbJOV0glI0UlC7/Usdh6TjD5/2TqBwYmbrYPhXdm+644poeZdkhpYdZTkhQ==",
-        "exp": "2026-11-02T15:34:33.934Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BFQOnCiiL+2o2hMjCVVBvYaBTDhCqFPIpPh8dlkN56SCFYII+3G3cx7ObksuAP2fW6Lt9lKo/PX/V21i9hukqAY=",
+        "priv": {
+          "salt": "Iox+N3/7j19h8fAK2PzG+w==",
+          "iv": "NpQs6/ZUlvK4KBXL",
+          "data": "ynBnWtsaknJKW7DMYbRR/Do5Mlq71nA5VDU2J7qSj2yMbVQJqp1864OQUiJdr90GpRkFtmlJdUiA6wycuzq3G2a2BogxAlEXqHrdbXT+IIKGmxlSgIxPvP2fCqOteblBZdAV+lbOnlTU5TeGLsIm99WBSY0P0VosJrosVfhZ/aORfTOfKMJVIUbci34MOtVY26umq8PMpBEAn8G70lizFaOHko1hRZsiIQ+jje/yghgFa2nPKTneczL9DP+GqQBourXZeali4YM=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BMxwHcgV7i4Ifc0al0+I6ziJSuUJJ4R6X5WbgqZlCBN3O5rvj9U2UminCDqFfLaTTop8HnpPpCoYy7UYuJ2Ut+A=",
+          "iv": "vGbY+r/Kn1jpF1bH",
+          "data": "AiR3KU/JoS0PYmZEK2hZDuv1WM30PA+KSBqWcJa5mZUUgzHAxU9b5yXg+cpFj5ZuC0cwRn/78BIMOpZyADKl3KrliaQwXtIYmaycDuHeVHgs0SiSQTZwV/NhNIyKLAaUMDtLpcB199vrRPyDEQ=="
+        }
       }
     }
   ]
