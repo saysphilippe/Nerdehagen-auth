@@ -213,7 +213,14 @@
     {
       "name": "Chili",
       "color": "#0891b2",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "FgE4q3ZJP2lEoz+hSYpcSA==",
+        "iv": "MwFTLCjn+Eu1eShF",
+        "data": "fdHQY5njhGZ8CMSWMEJeSy0TooS2reit/o+GlHYSoSAvCjucbNOhSwE3EBNkOE4kMn71CfkaPpaZebjXgMT3CP6IbJOV0glI0UlC7/Usdh6TjD5/2TqBwYmbrYPhXdm+644poeZdkhpYdZTkhQ==",
+        "exp": "2026-11-02T15:34:33.934Z"
+      }
     }
   ]
 }
