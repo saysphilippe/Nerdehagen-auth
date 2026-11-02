@@ -209,6 +209,11 @@
         "data": "ugyHyvLmCwHq13yoaXZFrMQJf/zhhfHqu9MG2oTVgUTOv5ENnFuynHmlkPdZWgffPx9wW5qlEABu5/vwn5pv5Tdjvl++vxXrsPJ5gvl5zmjtKHbB2sdeoPo4cEfIPMyU+zbFVLay0iJkOYHP9w==",
         "exp": "2026-10-24T02:29:28.783Z"
       }
+    },
+    {
+      "name": "Chili",
+      "color": "#0891b2",
+      "mustChange": true
     }
   ]
 }
