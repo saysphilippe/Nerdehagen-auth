@@ -120,6 +120,13 @@
           "iv": "7qcO8tqJSvNRXSe+",
           "data": "yUL4sbvhYqCIcfG8vU6j7hSoRvnEnA2UJkH9Tfh81Jt46ItnGGAgXB4SvV4BBPgbc5uXWUNvkBt6/Vchw1pdFOTfH2BP2iR9ZJBnklhGdfjagysGmxgn3r822kODb7/oNYb+KDkQ6FPm8wFggA=="
         }
+      },
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "rZHbYNzFNGw+e2ZfHc3EAQ==",
+        "iv": "bL8FUfRg7GPr1PBt",
+        "data": "WjBjPV1AoZx38rYkEF5j5gRmIoJOTDVQmbUzSkB5vvk/BhuyWHmZV7aBd1G4AwzqfwWU2PNloLNgSUwOswrdWXFLCVJHRrjr5wd6drlpuKjN1W4duAE94jR6PNGpzQD2S5M7yZcx8Zb+x3/KQw==",
+        "exp": "2026-11-05T23:06:22.967Z"
       }
     },
     {
