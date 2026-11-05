@@ -139,6 +139,13 @@
           "iv": "BzsVrYq19LYInz6i",
           "data": "SzpqLIOLi92XAeHidMwIZHY5Y/giNoKJcjL93rP6CIDfDcJla2cGK9lHKaajFXH64Bm/NiLe6pYR3K4YgKrEaITQ1qeq1psr+3+N5d9W8eegn9bnRbI7lYCwbTsji0lTnK6t48gLwzw1bR5Yow=="
         }
+      },
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "yA+9gb1qMgIQqTp1SuUObQ==",
+        "iv": "+KDoCG8Tuig3aAJE",
+        "data": "KeYMaF4exAUQ6zADog7OWKESKCxQDUQnACCHrJI/vjZnB+CPALhFe0CuQYq9z4pvSW0mpWKBU+NHcXlywzyOYcpq9Szy4tNoufsuuO4ol7XJpV0YBnpamKef37y9Kn9KH//3vAWS3oESr/gzlw==",
+        "exp": "2026-11-05T23:26:01.335Z"
       }
     },
     {
