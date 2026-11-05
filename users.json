@@ -108,25 +108,18 @@
       "color": "#ca8a04",
       "mustChange": false,
       "kp": {
-        "pub": "BHptCmeBzduR2+NeLWjQcgdfxNow5EAyPHDlnPQQU0yJhWNxBUuzYu/7tVdi+NWckrA0m/jmIhxo6WYywAKZ7H0=",
+        "pub": "BJAf17E0M7DZ8zU/+lZODnCz68kQRAxi2mq8gOZ7YK04g6se9dd2UHTX39opYyL96uNlSsnIevBoE+YnaAS4htw=",
         "priv": {
-          "salt": "rmIL92N8fIT5RDpmhb+pzA==",
-          "iv": "tA4HR+BuJl9BrtkF",
-          "data": "0h3dcFvdo6mwd5qYdHramAWD/faG2q1ofC0jWMlS201u4zV5+fF3uSJOFT3TKCxETfAn/fdGMueU2GBMjJRkAndjKv9/xPPHs4nF5ab3MmbJ6v42m2Yj0F7CxMbx68Au6RbU7fEAVUM5FnfNR7wD2ZtB/NDwAgy27hkCIegAYPJX62AkXHVeCk9cFFPn+HZj7ljnk5Ljm1n4LSjH2FAKgk2Ov2mw5L5KIlaZdsZVlKzIqmwyuj7L8qF30eDNKIXN4OBkMiPHyqc=",
+          "salt": "mOV60Rii6LmD2ToNiRR/Xg==",
+          "iv": "LhX4GFvL+y97CFZw",
+          "data": "qLM+uCBbPPIYIWunXiZc9iozqeCb67FTrHRhZ9dul3Our9lo7Y43/oVDWvMXUjSYegqpvV7vgmcJEv6pIQgzPTx4dxvEm9agAMNKaArMYvwdOrSH1PeltADT27L0gcH588EMeUxt54HkpUA9ZGix/Q/lg7TotlWvWXqkv3Yc1M6BM/ZOrvAzx7z1glx9nXT5v6g40Ta4n5B/kt2Mi3DrY17ERhfQl+2WfsIq72UCh1veHf51Q+4QLEhT/AQWfdQgTjgQILuv+XA=",
           "iter": 600000
         },
         "box": {
-          "epk": "BE6uOM3+yGNoGV/82Xw5rIS4wdcjwCBJb0KUoSd0b7fzRhXCyjzKF1/j8e15laOrMeIp7TMPKP75Fj0yTYvuHcU=",
-          "iv": "7qcO8tqJSvNRXSe+",
-          "data": "yUL4sbvhYqCIcfG8vU6j7hSoRvnEnA2UJkH9Tfh81Jt46ItnGGAgXB4SvV4BBPgbc5uXWUNvkBt6/Vchw1pdFOTfH2BP2iR9ZJBnklhGdfjagysGmxgn3r822kODb7/oNYb+KDkQ6FPm8wFggA=="
+          "epk": "BLp/sDUa3nVSS5JSpo+15mxWQVq2XsZJFFAWM1A7IGK3WoRDuSOpA+8NRGF+gWiKMshe/Q7d+/TX18P2RvqmWig=",
+          "iv": "nBzumYM839QvxLtI",
+          "data": "JMlOXm7L1fBpALSG6WzA3BP59q47wyOtnj6JTKF0LnFIt7ScQgchPsEELX8BO1+Sfz79PWe9XMww9E+eTVHoULKMm8SBEtky1m8lWrUMsur1y1jVQo7wWETNY93BpoiR9WrEIM3SFkMEFiVWEg=="
         }
-      },
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "rZHbYNzFNGw+e2ZfHc3EAQ==",
-        "iv": "bL8FUfRg7GPr1PBt",
-        "data": "WjBjPV1AoZx38rYkEF5j5gRmIoJOTDVQmbUzSkB5vvk/BhuyWHmZV7aBd1G4AwzqfwWU2PNloLNgSUwOswrdWXFLCVJHRrjr5wd6drlpuKjN1W4duAE94jR6PNGpzQD2S5M7yZcx8Zb+x3/KQw==",
-        "exp": "2026-11-05T23:06:22.967Z"
       }
     },
     {
