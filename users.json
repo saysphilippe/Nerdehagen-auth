@@ -50,27 +50,20 @@
       "color": "#7c3aed",
       "mustChange": false,
       "kp": {
-        "pub": "BOAp6tAV9vfYLHydklZ0P1VH8OWoswfbOWimARgXuZLqUOsxo0+7RsATKReSNSrKwpc2A+X0+/Z8YUg2PP2LMFM=",
+        "pub": "BE6O0VsYtkKbg9PcE19i7YjAk1RhTKzX9aO9Txcti4j8Ojg4cVJPkLEiZhV6ZVEjuJ3nawTWI4GL+h0i7dUCf/Q=",
         "priv": {
-          "salt": "APZ3f9Y8PgQF2yrAPDnjYA==",
-          "iv": "sl8qkeVZSW6Anmtn",
-          "data": "uPACC/vr5m2mEZEFl9DdQudB0Y64KTF84eS5o4ChtHGaBo4FhBwZHWiZrqnnJBStS2U6ftrqrjwi13IVMMv0GMXrgaa7Etk4iYsARxyXUVmD4671vGGF2mGPzI8bbMUgrjQyxZgZ3VXZjxhlQkmenDTQ0wc5z0T/DHEoXZUEwSjuQKuHXo4GALYtsMYV8DIB63nsiZOgKn4h3aZj+/VuzYw+W7J1yOmIGVwjSQy7FJpJIQ8aJzp/fbyExR5JGpt07Gapt/rJ53Y=",
+          "salt": "H+MnHbUZZwDlOWnKxr6xww==",
+          "iv": "SpMZHTyhthm1FVEE",
+          "data": "HTGYFYqmV5ZAVxMtONDKBFqiRz7ONFRVKVXKKqiByDg7gm2ky5XHC7Oho8ZnBaACQnDYbI5h0pPBG165Cbs8V8gPXOaUiloVpJuLCEu1CHWPXvG0cXd9NnREX+pmOmWcZ2LFVY2mbZR9ueB27OrN/oNzrDTkECnWAGe9yao/+D5h8YOJqKfdZmtfQ7koEEVFo6SwEUW5uyhxeh02P6Y4TFr4dOLBltPz1yPYMHMOFZEoaOI+forxiyjvh4lrgKvLFJ1MGPYZiAs=",
           "iter": 600000
         },
         "box": {
-          "epk": "BGBIAf6KhgcYPQ4ECwoW/SXlGzuhYaS/6ftzzLcUO4QjoMPFHD4dSTt6SDGsVxavshXT2iEaBKZzj+We7/VUi3s=",
-          "iv": "CxfdZEtsBQMIMF6p",
-          "data": "MMKBRZxGCAzT/2FLascREi33femzTvZYoGT/hWn1oW1YrbBIoXo8FVS6xN2dbeCUuDKhbzaeDweUb6VjPdegJAgQNI12D3WkLH7QaSThREz0icE4we/8z3cjB+W7B6c66KATFy1lmOHzgvgQAQ=="
+          "epk": "BOOMhB+KmOByzaee/Qwe42T1vZvSaEye2HmHy6kaXyyKk6HB7s5n/jmHQJiR+kmN6G4Rm24A2aT/cB59XQ+3cwM=",
+          "iv": "IRm6VVSKd6aEwSh2",
+          "data": "Hjj6lj591tl2dUYso8feOW8nFMxzpTJhoiYmiLyK/o1XrCJwGo4NxA6wJewQUVRPVmx57YmcC4cEqV3WJpmB31JtUGE9TES0eXHd9e9vQDekh8W/L59ruWnmSGs6hRPtKMO2Plcg2DU7+HYX+Q=="
         }
       },
-      "market": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "c4UfqfcTKlupRHohrf/wnw==",
-        "iv": "o9oxXLgf0myv/Na7",
-        "data": "D8m4mKvzAa+OZyy+YuyfuO8fOZysemQq5zHoCtNnRmFUwGlTatNBGVetAeWBWjtStAxOqmjuUNBL+wcredrY5PvaND64yKzRYPdGyZbQN1PIYyBiyJKJzNkpclJ6n9Vreenv1PNtKZwwRs/13A==",
-        "exp": "2026-11-06T16:30:03.864Z"
-      }
+      "market": true
     },
     {
       "name": "Peter",
