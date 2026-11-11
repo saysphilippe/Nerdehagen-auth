@@ -83,7 +83,8 @@
           "data": "rr35GnQ1c6IOGAnwOGiBxvY1J+ifUrwev9/BYiaSehMmWd+HdanQDG1YrcbOBRU3HGwIiAG7VykSIu/gin/qzZ5H932k92YAUNU3hSLVCxpoMD/c8RwxazY0uSMUBpoRcq5T/CFTLpn2cWJxZA=="
         }
       },
-      "shareLibrary": true
+      "shareLibrary": true,
+      "shareAms": true
     },
     {
       "name": "athill",
